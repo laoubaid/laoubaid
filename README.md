@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm lahoucine aoubaidi</h1>
 <h3 align="center">I'm a junior software developer from Morocco 🇲🇦. Passionate about coding, learning new technologies, and building cool stuff.</h3>
 
-- 🔭 I’m currently working on [webserve](https://github.com/laoubaid/webserv)
+- 🔭 I’m currently working on [42_transcendence](https://github.com/kamal98ETH/42cursus-ft_transcendence)
 
-- 🌱 I’m currently learning **C++, Python, JavaScript**
+- 🌱 I’m currently learning **C++, Python, JavaScript, TypeScript**
 
 - 📫 How to reach me **abaidhossin@gmail.com**
 
